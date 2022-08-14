@@ -1,0 +1,1 @@
+# MF-user-dict-format
